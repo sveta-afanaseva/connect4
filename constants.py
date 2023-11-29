@@ -1,0 +1,5 @@
+EMPTY_SLOT = '-'
+PLAYER_1 = 'X'
+PLAYER_2 = 'O'
+ROWS = 6
+COLUMNS = 7
